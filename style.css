@@ -1,0 +1,23 @@
+#box {
+    display: flex;
+    border: 5px solid;
+    text-align: center;
+    align-items: left;    
+    height: 300px;
+    width: 600px;
+    margin: auto;
+    margin-top:10%;
+    }
+    
+    #image {
+    
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    }
+    
+    #text {
+    text-align: center;
+    width: 140%;
+    
+    }
